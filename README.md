@@ -6,9 +6,9 @@ Website Klinik Wawa merupakan website untuk mengolah manajemen data pada klinik 
 
 Kriteria :
 1. Desain untuk setiap device
-
-
-4. Responsive
+   Menggunakan desain table untuk menampilkan berbagai data dari setiap data yang akan di kelola. Menggunakan template ADMIN LTE
+   
+2. Responsive
    - tampilan awal login
 ![image](https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/assets/117977364/722fa017-00e9-44e3-bae5-37dd9b2c5932)
 ![image](https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/assets/117977364/e61e39fa-1d70-44de-baa1-94a794b65255)
@@ -22,7 +22,7 @@ Kriteria :
 - tampilan data admin
   ![image](https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/assets/117977364/35cd00e8-7b4b-4e05-89df-35eccf25a2bd)
   
-6. Direct FeedBack
+3. Direct FeedBack
 - FeedBack Login : https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/login.php
   https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/login_process.php
   Pengguna akan memasukkan username dan password lalu menekan tombol log in, kemudian akan memunculkan bagian beranda.
@@ -38,6 +38,7 @@ Kriteria :
   Menampilkan Data Dokter
 
    
-8. Dinamis
+4. Dinamis
+   
 
    

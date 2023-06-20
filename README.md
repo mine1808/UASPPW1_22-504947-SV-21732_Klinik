@@ -6,7 +6,9 @@ Website Klinik Wawa merupakan website untuk mengolah manajemen data pada klinik 
 
 Kriteria :
 1. Desain untuk setiap device
-   Menggunakan desain table untuk menampilkan berbagai data dari setiap data yang akan di kelola. Menggunakan template ADMIN LTE
+   menggunakan desain table untuk menampilkan berbagai data dari setiap data yang akan di kelola. Menggunakan $GET dan $POST
+   pada setip beberapa code.
+   https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/conf/page.php tampilan akan berganti sesuai yang diinginkan pengguna
    
 2. Responsive
    - tampilan awal login
@@ -39,6 +41,21 @@ Kriteria :
 
    
 4. Dinamis
-   
+   - tambah data admin https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/admin/tambah_admin.php
+     https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/admin/tambah_admin_proses.php
+   - ubah data admin https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/admin/ubah_admin.php
+     https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/admin/ubah_admin_proses.php
+   - hapus data admin https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/admin/ubah_admin_proses.php
 
-   
+   - tambah data pasien https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/pasien/tambah_pasien.php
+     https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/pasien/tambah_pasien_proses.php
+   - ubah data pasien https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/pasien/ubah_pasien.php
+     https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/pasien/ubah_pasien_proses.php
+   - hapus data pasien https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/pasien/hapus_pasien.php
+  
+   - tambah data dokter https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/dokter/tambah_dokter.php
+     https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/dokter/tambah_dokter_proses.php
+   - ubah data dokter https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/dokter/ubah_dokter.php
+     https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/dokter/ubah_dokter_proses.php
+   - hapus data dokter 
+   https://github.com/mine1808/UASPPW1_22-504947-SV-21732_Klinik/blob/main/pages/dokter/hapus_dokter.php
